@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202604045",
+ "ten": "NguyenXuanViet",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "ngxuanviet",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000043968.jpg",
+  "000000194027.jpg",
+  "000000205650.jpg",
+  "000000343057.jpg",
+  "000000431893.jpg",
+  "000000078170.jpg",
+  "000000177338.jpg",
+  "000000521817.jpg",
+  "000000054909.jpg",
+  "000000391222.jpg",
+  "000000106051.jpg",
+  "000000012552.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_469647.jpg",
+  "face_85624.jpg",
+  "face_264124.jpg",
+  "face_436791.jpg",
+  "face_249336.jpg",
+  "face_301643.jpg",
+  "face_333134.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 16,
+   "job_id": 16,
+   "task_name": "persons-NguyenXuanViet"
+  },
+  "faces": {
+   "task_id": 17,
+   "job_id": 17,
+   "task_name": "faces-NguyenXuanViet"
+  },
+  "persons-extra": {
+   "task_id": 18,
+   "job_id": 18,
+   "task_name": "persons-extra-NguyenXuanViet"
+  },
+  "faces-extra": {
+   "task_id": 19,
+   "job_id": 19,
+   "task_name": "faces-extra-NguyenXuanViet"
+  }
+ },
+ "persons_extra": [
+  "000000005294.jpg",
+  "000000161603.jpg",
+  "000000357549.jpg"
+ ],
+ "faces_extra": [
+  "face_280788.jpg",
+  "face_300200.jpg",
+  "face_344941.jpg",
+  "face_494518.jpg",
+  "face_507166.jpg"
+ ]
+}
